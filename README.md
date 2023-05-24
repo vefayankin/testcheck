@@ -1,12 +1,12 @@
 
-# Word Rush - Console Word Finding Game
+# Word Rush 
 
-Word Rush is a console-based word finding game developed in Python. Players are presented with word definitions and must guess the corresponding word. They can choose to receive letters to make the game easier, but doing so will affect their overall score. The game features different difficulty levels, a scoring system based on time and letter usage, and a leaderboard to track player scores.
+Word Rush is a console-based word finding game developed in Python. Players are presented with word definitions and must guess the corresponding word within a limited time. They can choose to receive letters to make the game easier, but doing so will affect their overall score. The game features different difficulty levels, a scoring system based on time and letter usage, and a leaderboard to track player scores.
 
 ## Game Features
 
 - Three game modes: Easy, Medium, and Hard, each with different word difficulty levels.
-- Players are presented with a word definition and must guess the corresponding word.
+- Players are presented with a word definition and must guess the corresponding word within a limited time.
 - Limited time for each question, with the option to stop the timer.
 - Players can request letters to help them guess the word, but this affects their overall score.
 - Scoring system that calculates points based on the time taken and the number of letters received.
